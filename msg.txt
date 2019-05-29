@@ -1,0 +1,7 @@
+
+chan-cloud
+	eureka-service		-->eureak服务器
+	config-service		-->config配置中心
+	zuul-service		-->zuul服务网关路由
+	commodity-service	-->商品服务
+	order-service		-->订单服务
